@@ -1,0 +1,30 @@
+/* CSS Document */
+
+@charset "utf-8";
+
+ .tamaño-texto {
+	font-size: 11mm;
+	font-family: "Times New Roman", Times, serif;
+	color: #CCFF66;
+	font-weight: bold;
+	font-style: italic;
+	text-transform: uppercase;
+	text-decoration: blink;
+	background-image: none;
+ }
+
+ p {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 18px;
+	text-transform: none;
+	color: #000000;
+ }
+ 
+ .derechos {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	color: #006666;
+	text-decoration: underline;
+ }
